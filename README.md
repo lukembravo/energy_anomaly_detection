@@ -1,4 +1,5 @@
 # Anomaly Detection in Energy Use
+![energy_anomaly_detection.jpg](https://i.imgur.com/7bamvQA.jpg)
 
 Despite efforts to reduce waste, energy consumption in buildings has steadily increased in the last decade. Commercial buildings are specifically at risk of using more energy than necessary because of faulty construction, malfunctioning equipment and many other issues. The key problem is that fault detection in buildings for excess energy consumption is often primitive, leading to large amounts of waste. This project was based on a large set of time series data provided by Schneider Electric for a competition. 
 
