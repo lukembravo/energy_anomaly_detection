@@ -11,7 +11,7 @@ Check out our code or our [article on Medium](https://indialindsay1.medium.com/i
 ### Our Code 
 [`Data Preprocessing`](https://github.com/lukembravo/energy_anomaly_detection/blob/master/Code/01%20Data%20preprocessing.ipynb) [`Data Visualization`](https://github.com/lukembravo/energy_anomaly_detection/blob/master/Code/02%20Data%20visualization.ipynb) [`Random Forest, XGBoost, & Nearest Neighbors Models`](https://github.com/lukembravo/energy_anomaly_detection/blob/master/Code/03%20Modeling%20-%20Random%20forests%2C%20XGBoost%2C%20Nearest%20Neighbors.ipynb)
 [`Basic PyOD for Anomaly Detection`](https://github.com/indialindsay/Adv_Predictive_Modeling-/blob/main/APMAnomaly%20Detection.ipynb) 
-[`Bayesian Change Points for Anomaly Detection`](https://github.com/indialindsay/Adv_Predictive_Modeling-/blob/main/Anomaly%20Detection%20Using%20Banpei%20Changepoint%20Probabilities.ipynb) [`Unsupervised KNN for Anomaly Detection`](https://github.com/indialindsay/Adv_Predictive_Modeling-/blob/main/APMAnomaly%20Detection.ipynb)
+[`Bayesian Change Points for Anomaly Detection`](https://github.com/indialindsay/Adv_Predictive_Modeling-/blob/main/Anomaly%20Detection%20Using%20Banpei%20Changepoint%20Probabilities.ipynb) [`Unsupervised KNN & Better PyOD for Anomaly Detection`](https://github.com/indialindsay/Adv_Predictive_Modeling-/blob/main/APMAnomaly%20Detection.ipynb)
 
 ### Our Team
 Luke Bravo: [`LinkedIn`](https://www.linkedin.com/in/luke-bravo/)  
