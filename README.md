@@ -16,6 +16,6 @@ Check out our code or our [article on Medium](https://indialindsay1.medium.com/i
 ### Our Team
 Luke Bravo: [`LinkedIn`](https://www.linkedin.com/in/luke-bravo/)  
 Ram Kapistalam: [`GitHub`](https://github.com/rkapistalam) [`LinkedIn`](https://www.linkedin.com/in/ramkapistalam/)  
-Indian Lindsay: [`GitHub`](https://github.com/indialindsay) [`LinkedIn`](https://www.linkedin.com/in/india-lindsay/)  
+India Lindsay: [`GitHub`](https://github.com/indialindsay) [`LinkedIn`](https://www.linkedin.com/in/india-lindsay/)  
 Mauricio Morales: [`LinkedIn`](https://www.linkedin.com/in/playmaumo/)  
 Jocelyne Walker: [`GitHub`](https://github.com/jocelynewalker) [`LinkedIn`](https://www.linkedin.com/in/jocelynewalker/)  
